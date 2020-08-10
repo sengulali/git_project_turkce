@@ -7,7 +7,9 @@ public class IlkClass {
 		System.out.println("Sengul'den selamlar..");
 		System.out.println("Ali'den selamlar");
 		System.out.println("remote degisiklik");
+		System.out.println("Ali");
 
 	}
 
+	
 }
